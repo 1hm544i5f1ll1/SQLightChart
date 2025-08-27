@@ -12,8 +12,8 @@ Convert natural-language requirements into SQLite queries and ECharts configs vi
 ## Installation
 
 ```bash
-git clone <repo-url>
-cd <repo>
+git clone https://github.com/1hm544i5f1ll1/SQLightChart.git
+cd SQLightChart.git
 pip install openai sqlite3
 ````
 
